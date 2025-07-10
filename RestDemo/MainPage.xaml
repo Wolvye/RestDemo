@@ -9,6 +9,7 @@
         <Button Command="{Binding GetSingleUserCommand}"  Text="Get Single User"/>
         <Button Command="{Binding AddUserCommand}"  Text="Add User"/>
         <Button Command="{Binding UpdateUserCommand}"  Text="Update User"/>
+        <Button Command="{Binding DeleteUserCommand}"  Text="Delete User"/>
     </VerticalStackLayout>
     
     
